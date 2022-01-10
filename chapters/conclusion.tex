@@ -1,0 +1,17 @@
+% \chapter{CONCLUSION AND RECOMMENDATION}
+
+\begin{sloppypar}
+		
+	\section{Conclusion}
+	In summary, this study is an exploratory attempt to use three machine learning algorithms to estimate hostel prices and then compare their performances after carefully preparing, transforming, and clearing the dataset. In this study, our models are trained with some hostel features and 2019/20 prices utilizing \ac{mlr}, \ac{rr} and \ac{nn}. We have demonstrated the predictive power of machine learning algorithms on the hostel market, as evaluated by the performance metrics. \newline
+	Given our dataset used in this paper, our main conclusion is that \ac{mlr} and \ac{nn} can generate comparably accurate hostel price estimations with lower prediction errors, compared with the \ac{rr} results. Based on these estimates, we hope hostel managers, \ac{src} and \ac{pha} will incorporate this approach in estimating hostel prices or developing new policies that govern the hostel market. \newline
+	Furthermore, results from Table \ref{table:metric2} prove the existence of a hostel submarket in the AYEDUASE and KOTEI areas, with all $ R^2 $ greater than 0.8 on the test sets.
+		
+		
+	\section{Recommendation}
+	First, the non-linear relationship between proximity and hostel price, which is mostly the main reason students rent hostels, should be explored using other algorithms such as random forest and decision trees. \newline
+	Moreover, from our dataset, post\_code contains 21 unique area codes. Further investigations into the hostel market should consider reducing the complexity of the feature by employing an unsupervised machine learning algorithm for cluster analysis to reduce the number of features during training. \newline
+	Finally, this paper considered only the 2019/20 academic year information for the hostels. The time effect of the hostel price, which could potentially impact the estimated results, was removed due to the sparsity of such data. Therefore, we suggest that different data collection styles should be employed.
+		
+\end{sloppypar}
+

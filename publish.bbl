@@ -1,0 +1,224 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Calhoun(2003)]{Calhoun2003}
+C.~Calhoun.
+\newblock {Property valuation models and house price indexes for the provinces
+  of Thailand: 1992-2000}.
+\newblock \emph{Housing Finance International}, 17\penalty0 (3):\penalty0 31,
+  2003.
+\newblock ISSN 1534-8784.
+
+\bibitem[Chatterjee and Simonoff(2013)]{Chatterjee2013}
+S.~Chatterjee and J.~S. Simonoff.
+\newblock \emph{{Handbook of Regression Analysis}}.
+\newblock 2013.
+\newblock ISBN 9780470887165.
+\newblock \doi{10.1002/9781118532843}.
+
+\bibitem[Coakley and Brown(2000)]{coakley2000artificial}
+J.~R. Coakley and C.~E. Brown.
+\newblock Artificial neural networks in accounting and finance: Modeling
+  issues.
+\newblock \emph{Intelligent Systems in Accounting, Finance \& Management},
+  9\penalty0 (2):\penalty0 119--144, 2000.
+
+\bibitem[Douglass(2020)]{Douglass2020}
+M.~J.~J. Douglass.
+\newblock \emph{{Book Review: Hands-on Machine Learning with Scikit-Learn,
+  Keras, and Tensorflow, 2nd edition by Aur{\'{e}}lien G{\'{e}}ron}},
+  volume~43.
+\newblock 2020.
+\newblock ISBN 9781492032649.
+\newblock \doi{10.1007/s13246-020-00913-z}.
+
+\bibitem[Friedland()]{Davidf}
+D.~Friedland.
+\newblock A fresh look at data preparation.
+\newblock URL
+  \url{https://www.iri.com/blog/business-intelligence/a-fresh-look-at-data-preparation/}.
+
+\bibitem[Gavu and Owusu-Ansah(2019)]{Gavu2019a}
+E.~K. Gavu and A.~Owusu-Ansah.
+\newblock {Empirical analysis of residential submarket conceptualisation in
+  Ghana}.
+\newblock \emph{International Journal of Housing Markets and Analysis},
+  12\penalty0 (4):\penalty0 763--787, 2019.
+\newblock ISSN 17538289.
+\newblock \doi{10.1108/IJHMA-10-2018-0080}.
+
+\bibitem[Han et~al.(2011)Han, Pei, and Kamber]{han2011data}
+J.~Han, J.~Pei, and M.~Kamber.
+\newblock \emph{Data mining: concepts and techniques}.
+\newblock Elsevier, 2011.
+
+\bibitem[Hoerl and Kennard(1970)]{hoerl1970ridge}
+A.~E. Hoerl and R.~W. Kennard.
+\newblock Ridge regression: Biased estimation for nonorthogonal problems.
+\newblock \emph{Technometrics}, 12\penalty0 (1):\penalty0 55--67, 1970.
+
+\bibitem[Jaiantilal(2013)]{Jaiantilal2013}
+A.~Jaiantilal.
+\newblock {Feature Selection by Iterative Reweighting: An Exploration of
+  Algorithms for Linear Models and Random Forests.}
+\newblock 2013.
+
+\bibitem[Kamal et~al.(2021)Kamal, Chaturvedi, Gautam, and Bhalla]{Kamal2021b}
+N.~Kamal, E.~Chaturvedi, S.~Gautam, and S.~Bhalla.
+\newblock {House Price Prediction Using Machine Learning}.
+\newblock pages 799--811, 2021.
+\newblock \doi{10.1007/978-981-15-9774-9_73}.
+
+\bibitem[Limsombunchai(2004)]{Limsombunchai2004a}
+V.~Limsombunchai.
+\newblock {House Price Prediction : Hedonic Price Model vs . Artificial Neural
+  Network Paper presented at the 2004 NZARES Conference House Price Prediction
+  :}.
+\newblock \emph{New Zealand Agricultural and Resource Economics Society
+  Conference}, pages 25--26, 2004.
+
+\bibitem[Little and Rubin(1988)]{little1988}
+R.~J. Little and D.~B. Rubin.
+\newblock \emph{{Statistical Analysis with Missing Data. Roderick J. A. Little,
+  Donald B. Rubin}}, volume~94.
+\newblock John Wiley \& Sons, 1988.
+\newblock \doi{10.1086/228956}.
+\newblock URL \url{https://b-ok.africa/book/1185981/a058d2}.
+
+\bibitem[Maclennan and Tu(1996)]{maclennan1996economic}
+D.~Maclennan and Y.~Tu.
+\newblock Economic perspectives on the structure of local housing systems.
+\newblock \emph{Housing studies}, 11\penalty0 (3):\penalty0 387--406, 1996.
+
+\bibitem[Madhuri et~al.(2019)Madhuri, Anuradha, and Pujitha]{Madhuri2019}
+C.~H. Madhuri, G.~Anuradha, and M.~V. Pujitha.
+\newblock {House Price Prediction Using Regression Techniques: A Comparative
+  Study}.
+\newblock \emph{6th IEEE International Conference on Smart Structures and
+  Systems, ICSSS 2019}, pages 4--8, 2019.
+\newblock \doi{10.1109/ICSSS.2019.8882834}.
+
+\bibitem[Mathworks()]{Mathworks}
+Mathworks.
+\newblock isoutlier.
+\newblock URL \url{https://www.mathworks.com/help/matlab/ref/isoutlier.html}.
+
+\bibitem[Ngiam and Khor(2019)]{Ngiam2019}
+K.~Y. Ngiam and I.~W. Khor.
+\newblock {Big data and machine learning algorithms for health-care delivery}.
+\newblock \emph{The Lancet Oncology}, 20\penalty0 (5):\penalty0 e262--e273,
+  2019.
+\newblock ISSN 14745488.
+\newblock \doi{10.1016/S1470-2045(19)30149-4}.
+\newblock URL \url{http://dx.doi.org/10.1016/S1470-2045(19)30149-4}.
+
+\bibitem[Nguyen and Cripps(2001)]{Nguyen2001}
+N.~Nguyen and A.~Cripps.
+\newblock {Predicting Housing Value: A Comparison of Multiple Regression
+  Analysis and Ar tificial Neural Networks}.
+\newblock \emph{Journal of Real Estate Research,}, 22\penalty0 (3):\penalty0
+  313--336, 2001.
+\newblock ISSN 0041-0101.
+
+\bibitem[Owusu-Ansah(2012)]{Owusu-Ansah2012}
+A.~Owusu-Ansah.
+\newblock {Examination of the determinants of housing values in urban Ghana and
+  implications for policy makers}.
+\newblock \emph{Journal of African Real Estate Research}, 2\penalty0
+  (1):\penalty0 58--85, 2012.
+
+\bibitem[Pan and Zhong(2019)]{panhouse}
+S.~Pan and J.~Zhong.
+\newblock {Shuaidong Pan Jianyuan Zhong Abstract 2 Relevent Works 1
+  Introduction 3 Methodology}.
+\newblock 2019.
+
+\bibitem[Parashar(2021)]{Parashar2021}
+A.~Parashar.
+\newblock The 7 stages of preparing data for machine learning, June 2021.
+\newblock URL
+  \url{https://pub.towardsai.net/the-7-stages-of-preparing-data-for-machine-learning-dfe454da960b}.
+
+\bibitem[Patil(2018)]{Patil}
+P.~Patil.
+\newblock What is exploratory data analysis?, 2018.
+\newblock URL
+  \url{https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15}.
+
+\bibitem[Phan(2019)]{Phan2019}
+T.~D. Phan.
+\newblock {Housing price prediction using machine learning algorithms: The case
+  of Melbourne city, Australia}.
+\newblock \emph{Proceedings - International Conference on Machine Learning and
+  Data Engineering, iCMLDE 2018}, pages 8--13, 2019.
+\newblock \doi{10.1109/iCMLDE.2018.00017}.
+
+\bibitem[Selim(2009)]{Selim2009}
+H.~Selim.
+\newblock {Determinants of house prices in Turkey: Hedonic regression versus
+  artificial neural network}.
+\newblock \emph{Expert Systems with Applications}, 36\penalty0 (2 PART
+  2):\penalty0 2843--2852, 2009.
+\newblock ISSN 09574174.
+\newblock \doi{10.1016/j.eswa.2008.01.044}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.eswa.2008.01.044}.
+
+\bibitem[Shewhart et~al.(2015)Shewhart, Wilks, Balding, Cressie, and
+  Fitzmaurice]{Shewhart2015}
+W.~A. Shewhart, S.~S. Wilks, E.~D.~J. Balding, N.~A.~C. Cressie, and G.~M.
+  Fitzmaurice.
+\newblock \emph{{Paper Money Value Change: Comparative Banking Fiqhiyyah
+  Study}}, volume~5.
+\newblock 2015.
+\newblock ISBN 9781118644614.
+\newblock \doi{10.15408/aiq.v5i1.2561}.
+
+\bibitem[Shweta~Bhatt(2018)]{Youplus2018}
+Y.~Shweta~Bhatt.
+\newblock 5 things you need to know about reinforcement learning, March 2018.
+\newblock URL
+  \url{https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html}.
+
+\bibitem[Thamarai and Malarvizhi(2020)]{Thamarai2020a}
+M.~Thamarai and S.~P. Malarvizhi.
+\newblock {House Price Prediction Modeling Using Machine Learning}.
+\newblock \emph{International Journal of Information Engineering and Electronic
+  Business}, 12\penalty0 (2):\penalty0 15--20, 2020.
+\newblock ISSN 20749023.
+\newblock \doi{10.5815/ijieeb.2020.02.03}.
+
+\bibitem[Tikhonov(1966)]{tikhonov1966stability}
+A.~N. Tikhonov.
+\newblock On the stability of the functional optimization problem.
+\newblock \emph{USSR Computational Mathematics and Mathematical Physics},
+  6\penalty0 (4):\penalty0 28--33, 1966.
+
+\bibitem[Truong et~al.(2020)Truong, Nguyen, Dang, and Mei]{Truong2020}
+Q.~Truong, M.~Nguyen, H.~Dang, and B.~Mei.
+\newblock {Housing Price Prediction via Improved Machine Learning Techniques}.
+\newblock \emph{Procedia Computer Science}, 174\penalty0 (2019):\penalty0
+  433--442, 2020.
+\newblock ISSN 18770509.
+\newblock \doi{10.1016/j.procs.2020.06.111}.
+\newblock URL \url{https://doi.org/10.1016/j.procs.2020.06.111}.
+
+\bibitem[Vineeth et~al.(2018)Vineeth, Ayyappa, and Bharathi]{Vineeth2018}
+N.~Vineeth, M.~Ayyappa, and B.~Bharathi.
+\newblock {House Price Prediction Using Machine Learning Algorithms}.
+\newblock \emph{Communications in Computer and Information Science},
+  837:\penalty0 425--433, 2018.
+\newblock ISSN 18650929.
+\newblock \doi{10.1007/978-981-13-1936-5_45}.
+
+\bibitem[Xin and Khalid(2018)]{Xin2018}
+S.~J. Xin and K.~Khalid.
+\newblock {Modelling House Price Using Ridge Regression and Lasso Regression}.
+\newblock \emph{International Journal of Engineering and Technology},
+  7\penalty0 (4.30):\penalty0 498, 2018.
+\newblock \doi{10.14419/ijet.v7i4.30.22378}.
+
+\end{thebibliography}

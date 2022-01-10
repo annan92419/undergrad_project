@@ -1,0 +1,86 @@
+\documentclass[12pt,oneside]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[none]{hyphenat}
+\usepackage[a4paper,width=150mm,top=23mm,bottom=22mm,bindingoffset=6mm]{geometry}
+\usepackage{pdfpages}
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+\usepackage{graphicx}
+\usepackage{csquotes}
+\usepackage[titles]{tocloft}
+\setlength{\cftbeforechapskip}{6pt}
+\usepackage{titlesec}
+\graphicspath{{images/}}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{mathtools}
+\usepackage{longtable}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{natbib}
+\bibliographystyle{abbrvnat}
+\setcitestyle{authoryear,open={(},close={)}}
+\usepackage[hidelinks]{hyperref} 
+\usepackage[printonlyused]{acronym}
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+
+\begin{document}
+
+\frontmatter
+
+\input{titlepage}
+
+\renewcommand{\arraystretch}{1.3}
+\renewcommand{\baselinestretch}{0}
+
+\addcontentsline{toc}{chapter}{ABSTRACT}
+\chapter*{ABSTRACT}
+\input{abstract}
+
+\addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
+\chapter*{ACKNOWLEDGMENTS}
+\input{acknowledgment}
+
+\tableofcontents
+
+\addcontentsline{toc}{chapter}{LIST OF ABBREVIATIONS}
+\chapter*{List of Abbreviations}
+\input{abbreviations}
+
+\mainmatter
+
+\chapter{INTRODUCTION}
+\input{chapters/introduction}
+
+\chapter{LITERATURE REVIEW}
+\input{chapters/litreview}
+
+\chapter{METHODOLOGY}
+\input{chapters/methodology}
+
+\chapter{DATA COLLECTION, ANALYSIS AND RESULTS}
+\input{chapters/results}
+
+\chapter{CONCLUSION AND RECOMMENDATIONS}
+\input{chapters/conclusion}
+
+\backmatter
+
+\addcontentsline{toc}{chapter}{REFERENCES}
+\renewcommand{\bibname}{REFERENCES}
+\bibliography{ref}
+
+\pagestyle{plain}
+
+\addcontentsline{toc}{chapter}{APPENDIX A: Additional Informative Figures and Tables}
+\chapter*{ {APPENDIX A:} \\ {Additional Informative Figures} \\ {and Tables} }
+\input{appendix}
+
+\end{document}

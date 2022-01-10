@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: publish.aux
+The style file: abbrvnat.bst
+Database file #1: ref.bib
+Warning--entry type for "Patil" isn't style-file defined
+--line 308 of file ref.bib
+Warning--entry type for "Davidf" isn't style-file defined
+--line 316 of file ref.bib
+Warning--entry type for "Parashar2021" isn't style-file defined
+--line 430 of file ref.bib
+Warning--entry type for "Mathworks" isn't style-file defined
+--line 476 of file ref.bib
+Warning--entry type for "Youplus2018" isn't style-file defined
+--line 613 of file ref.bib
+Warning--empty publisher in Chatterjee2013
+Warning--can't use both volume and number fields in Douglass2020
+Warning--empty publisher in Douglass2020
+Warning--empty year in Davidf
+Warning--empty journal in Jaiantilal2013
+Warning--empty journal in Kamal2021b
+Warning--can't use both volume and number fields in little1988
+Warning--empty year in Mathworks
+Warning--empty journal in panhouse
+Warning--can't use both volume and number fields in Shewhart2015
+Warning--empty publisher in Shewhart2015
+You've used 30 entries,
+            2773 wiz_defined-function locations,
+            829 strings with 10603 characters,
+and the built_in function-call counts, 12697 in all, are:
+= -- 1187
+> -- 577
+< -- 31
++ -- 201
+- -- 171
+* -- 966
+:= -- 1955
+add.period$ -- 119
+call.type$ -- 30
+change.case$ -- 142
+chr.to.int$ -- 30
+cite$ -- 71
+duplicate$ -- 605
+empty$ -- 1099
+format.name$ -- 223
+if$ -- 2670
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 30
+newline$ -- 187
+num.names$ -- 120
+pop$ -- 285
+preamble$ -- 1
+purify$ -- 117
+quote$ -- 0
+skip$ -- 474
+stack$ -- 0
+substring$ -- 454
+swap$ -- 61
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 305
+warning$ -- 11
+while$ -- 128
+width$ -- 0
+write$ -- 438
+(There were 16 warnings)

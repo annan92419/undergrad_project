@@ -16,9 +16,9 @@ Application of Machine Learning in Predicting Hostel Prices: A Case Study of KNU
   </p>
   
   
-  ---
-  ### ACKNOWLEDGEMENT
+---
+### ACKNOWLEDGEMENT
   
-    - Charles Sebil Ph.D
-    - Deborah Dormah Kanubala
-    - Emmanuel 
+  - Charles Sebil PhD
+  - Deborah Dormah Kanubala PhD
+  - Emmanuel Kofi Gavu PhD 
